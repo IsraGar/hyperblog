@@ -19,6 +19,11 @@ body{
     width: 20px;
     vertical-align: middle;
 }
+span#user{
+    color: #051857;
+    font-size: large;
+    font-style: italic;
+}
 #cabecera #tagline{
     margin: 0 0 0 1rem;
     font-weight: normal;
