@@ -44,6 +44,14 @@ span#user{
     background: white;
     padding: 1em;
 }
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#img-rocket{
+    width: 30%;
+}
 #footer{
     color: white;
     background: #333;
