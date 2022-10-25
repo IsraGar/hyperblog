@@ -1,4 +1,0 @@
-Este es un archivo de prueba para iniciar en el mundo de Git
-Cambio para agregar un segundo commit!
-
-Nunca pares de aprender!
